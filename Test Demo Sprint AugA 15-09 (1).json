@@ -1,0 +1,71 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "Test Demo Sprint AugA 15-09",
+        "AssetURL": "https://dev.chrysalis.microsoft.com",
+        "AssetType": "IP Package",
+        "Description": "Test Demo Sprint AugA",
+        "Products": [
+            "Dynamics 365 Project Operations"
+        ],
+        "Scenarios": [
+            "Data Estate Modernization"
+        ],
+        "SolutionAreas": [
+            "Business Apps",
+            "Data and AI"
+        ],
+        "Tags": [
+            "123test"
+        ],
+        "AssetVersion": "DV1",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-viyada@microsoft.com",
+            "v-sandpatil@microsoft.com",
+            "v-skonar@microsoft.com"
+        ],
+        "RegisteredBy": "v-skonar@microsoft.com",
+        "RegisteredDate": "2022-09-15T07:43:22.5758794Z",
+        "DeliveryProductID": "A",
+        "DomainServiceline": "ACAI (Azure cloud and Artificial intelligence)"
+    },
+    "IPDetails": {
+        "DisplayVersion": "DV1",
+        "WorkItems": [
+            {
+                "name": "MyPuneQuery",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/019a8167-8ca3-4ef4-b11e-4a0a25e6eba0/"
+            }
+        ],
+        "Repository": [
+            {
+                "name": "IBISPortal",
+                "sourceType": "ADO",
+                "url": "https://chrysalis-innersource@dev.azure.com/chrysalis-innersource/IBIS%20%28Intelligent%20Bootstrap%20Integrated%20System%29/_git/IBISPortal"
+            }
+        ],
+        "AssociatedComponents": [],
+        "Pipelines": [
+            {
+                "name": "IBISPortal-CI",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=43&branch=Dev"
+            },
+            {
+                "name": "IBIS (Intelligent Bootstrap Integrated System)-API-CI",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=40&branch=Dev"
+            }
+        ],
+        "docsAsCode": [
+            {
+                "name": "",
+                "sourceType": "ADO",
+                "url": "https://chrysalis-innersource@dev.azure.com/chrysalis-innersource/IBIS%20%28Intelligent%20Bootstrap%20Integrated%20System%29/_git/IBISPortal",
+                "repoBranch": "main",
+                "path": "/"
+            }
+        ]
+    }
+}
