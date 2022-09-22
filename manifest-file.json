@@ -35,7 +35,7 @@
             {
                 "name": "MyPuneQuery",
                 "sourceType": "ADO",
-                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/019a8167-8ca3-4ef4-b11e-4a0a25e6eba0/"
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/1f1f8506-43a8-4416-9234-661516b82501/"
             }
         ],
         "Repository": [
@@ -47,11 +47,6 @@
         ],
         "AssociatedComponents": [],
         "Pipelines": [
-            {
-                "name": "IBISPortal-CI",
-                "sourceType": "ADO",
-                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=43&branch=Dev"
-            },
             {
                 "name": "IBIS (Intelligent Bootstrap Integrated System)-API-CI",
                 "sourceType": "ADO",
