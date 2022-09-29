@@ -1,0 +1,59 @@
+{
+	"PrimaryDetails": {
+	  "AssetTitle": "",
+	  "AssetURL": "",
+	  "AssetType": "",
+	  "Description": "",
+	  "Products": [],
+	  "Scenarios": [],
+	  "Tags": [],
+	  "AssetVersion": "",
+	  "AssetContributors": ["v-test"],
+	  "AssetOwner": ["v-test"],
+	  "RegisteredBy": "v-test",
+	  "RegisteredDate": "",
+	  "DeliveryProductID": "",
+	  "DomainServiceline": ""
+	},
+	
+	"IPDetails": {
+	  "DisplayVersion": "",
+	  "WorkItems": [
+		{
+		  "Name": "",
+		  "SourceType": "",
+		  "Url": ""
+		}
+	  ],
+	  "Repository": [
+		{
+		  "Name": "",
+		  "SourceType": "",
+		  "Url": ""
+		}
+	  ],
+	  "Pipelines": [
+		{
+		  "Name": "",
+		  "SourceType": "",
+		  "Url": ""
+		}
+		], 
+	 "docsAsCode": [
+        {
+		 "name": "",
+		 "sourceType": "",
+		 "url": "",
+		 "repoBranch": "",
+		 "path": ""
+        }
+        ],	
+	  "AssociatedComponents": [
+		{
+		  "InnerSourceId": "",
+		  "BuildNumber": "",
+		  "DisplayVersion": ""
+		}
+	  ]
+	}
+  }
