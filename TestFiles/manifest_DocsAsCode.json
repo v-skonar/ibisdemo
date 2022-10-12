@@ -1,6 +1,6 @@
 {
     "PrimaryDetails": {
-        "AssetTitle": "test code artifact type",
+        "AssetTitle": "test Docs as Code type",
         "AssetURL": "https://localhost:3000/",
         "AssetType": "Docs as Code",
         "Description": "test",
