@@ -1,0 +1,23 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "CSE Asset Import Test Asset 1",
+        "AssetURL": "https://localhost:3000",
+        "AssetType": "Code Artifact",
+        "Description": "<div>Sample Description of Asset 1 </div>",
+        "Products": [
+            "Azure Functions"
+        ],
+        "Scenarios": [],
+        "SolutionAreas": null,
+        "Tags": [
+            "CSE-EFR"
+        ],
+        "AssetVersion": "",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-viyada@microsoft.com"
+        ],
+        "RegisteredBy": "v-viyada@microsoft.com",
+        "RegisteredDate": "2022-10-04T12:00:03.709897Z"
+    }
+}

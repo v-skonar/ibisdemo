@@ -1,0 +1,19 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "",
+        "AssetURL": "",
+        "AssetType": "Guidance",
+        "Description": "",
+        "Products": [],
+        "Scenarios": [],
+        "SolutionAreas": null,
+        "Tags": [],
+        "AssetVersion": "",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-test"
+        ],
+        "RegisteredBy": "",
+        "RegisteredDate": ""
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "AST_405",
+        "AssetURL": "https://dev.azure.com/servicescode-test/TCS-Test-Project/_git/DocsAsCode",
+        "AssetType": "Docs as Code",
+        "Description": "AST_405",
+        "Products": [
+            "Intune"
+        ],
+        "Scenarios": [
+            "PowerShell"
+        ],
+        "SolutionAreas": [
+            "Data and AI"
+        ],
+        "Tags": [
+            "QA_Test"
+        ],
+        "AssetVersion": "1",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-ragtiwari@microsoft.com"
+        ],
+        "RegisteredBy": "v-ragtiwari@microsoft.com",
+        "RegisteredDate": "2022-10-10T09:05:35.2736138Z",
+        "docsAsCodeDetails": {
+            "docFxPath": "/",
+            "branchName": "main",
+            "commitId": "1ea7ca0f43d6d6000437e73c4e3149be8e3e2c84",
+            "name": null,
+            "sourceType": "ADO",
+            "url": "https://dev.azure.com/servicescode-test/TCS-Test-Project/_git/DocsAsCode"
+        }
+    }
+}
