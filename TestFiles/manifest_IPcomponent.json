@@ -1,0 +1,58 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "Test IP Component type",
+        "AssetURL": "https://dev.chrysalis.microsoft.com",
+        "AssetType": "IP Component",
+        "Description": "Test",
+        "Products": [
+            "Dynamics 365 Project Operations"
+        ],
+        "Scenarios": [
+            "Data Estate Modernization"
+        ],
+        "SolutionAreas": [
+            "Business Apps",
+            "Data and AI"
+        ],
+        "Tags": [
+            "123test"
+        ],
+        "AssetVersion": "DV1",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-viyada@microsoft.com",
+            "v-sandpatil@microsoft.com",
+            "v-skonar@microsoft.com"
+        ],
+        "RegisteredBy": "v-skonar@microsoft.com",
+        "RegisteredDate": "2022-09-22T08:00:24.1182252Z",
+        "DeliveryProductID": "A",
+        "DomainServiceline": "ACAI (Azure cloud and Artificial intelligence)"
+    },
+    "IPDetails": {
+        "DisplayVersion": "DV1",
+        "WorkItems": [
+            {
+                "name": "IBIS (Intelligent Bootstrap Integrated System) Team - Sprint 1 - Backlog",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/1f1f8506-43a8-4416-9234-661516b82501/"
+            }
+        ],
+        "Repository": [
+            {
+                "name": "IBISPortal",
+                "sourceType": "ADO",
+                "url": "https://chrysalis-innersource@dev.azure.com/chrysalis-innersource/IBIS%20%28Intelligent%20Bootstrap%20Integrated%20System%29/_git/IBISPortal"
+            }
+        ],
+        "AssociatedComponents": [],
+        "Pipelines": [
+            {
+                "name": "IBIS (Intelligent Bootstrap Integrated System)-API-CI",
+                "sourceType": "ADO",
+                "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=40&branch=Dev"
+            }
+        ],
+        "docsAsCode": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "Test Document Template type",
+        "AssetURL": "http://testjan24.com",
+        "AssetType": "Document Template",
+        "Description": "test",
+        "Products": [
+            "PowerShell"
+        ],
+        "Scenarios": [
+            "Data Estate Modernization"
+        ],
+        "SolutionAreas": [
+            "Cross Solution"
+        ],
+        "Tags": [
+            "123test"
+        ],
+        "AssetVersion": "v1",
+        "AssetContributors": [
+            "v-anupkasat@microsoft.com"
+        ],
+        "AssetOwner": [
+            "v-dagai@microsoft.com",
+            "v-anupkasat@microsoft.com"
+        ],
+        "RegisteredBy": "v-dagai@microsoft.com",
+        "RegisteredDate": "2022-09-29T03:47:12.8826853Z"
+    }
+}

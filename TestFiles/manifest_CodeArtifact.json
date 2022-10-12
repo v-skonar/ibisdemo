@@ -1,0 +1,19 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "test code artifact type",
+        "AssetURL": "https://localhost:3000/",
+        "AssetType": "Code Artifact",
+        "Description": "test",
+        "Products": ["Intune"],
+        "Scenarios": ["Azure"],
+        "SolutionAreas": ["Security"],
+        "Tags": ["test"],
+        "AssetVersion": "v1",
+        "AssetContributors": ["v-skonar"],
+        "AssetOwner": [
+            "v-skonar"
+        ],
+        "RegisteredBy": "",
+        "RegisteredDate": ""
+    }
+}
