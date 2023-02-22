@@ -2,7 +2,7 @@
     "PrimaryDetails": {
         "AssetTitle": "Test Domain Service line blank",
         "AssetURL": "https://dev.chrysalis.microsoft.com",
-        "AssetType": "IP Package",
+        "AssetType": "IP Collection",
         "Description": "Test",
         "Products": [
             "Dynamics 365 Project Operations"
