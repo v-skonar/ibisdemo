@@ -1,0 +1,49 @@
+{
+    "PrimaryDetails": {
+        "AssetTitle": "Github repo test",
+        "AssetURL": "http://localhost:3000/assets",
+        "AssetType": "IP Component",
+        "Description": "test",
+        "Products": [],
+        "Scenarios": [],
+        "SolutionAreas": [],
+        "Tags": [
+            "IBIS"
+        ],
+        "AssetVersion": "V1",
+        "AssetContributors": [],
+        "AssetOwner": [
+            "v-skonar@microsoft.com"
+        ],
+        "RegisteredBy": "v-skonar@microsoft.com",
+        "RegisteredDate": "2023-03-08T07:30:20.401657Z",
+        "IsPrivate": false,
+        "PrivateUsers": [],
+        "LinkedAssets": [],
+        "AssetURLScope": "MS-FTE",
+        "AssetURLAccessSteps": "",
+        "DeliveryProductID": "",
+        "DomainServiceline": null
+    },
+    "IPDetails": {
+        "DisplayVersion": "My Asset Version V2",
+        "WorkItems": [],
+        "Repository": [
+            {
+                "name": "test-extract",
+                "sourceType": "ADO",
+                "url": "https://github.com/v-skonar/test-extract"
+            }
+        ],
+        "AssociatedComponents": [],
+        "Pipelines": [],
+        "docsAsCode": [],
+        "iterationAreaTeams": [],
+        "Queries": [],
+        "Dashboards": [],
+        "VariableGroups": [],
+        "PreProcessingSteps": null,
+        "PostProcessingSteps": null,
+        "processTemplateEnabler": []
+    }
+}
