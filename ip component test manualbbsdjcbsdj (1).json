@@ -1,0 +1,43 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "ip component test manualbbsdjcbsdj",
+    "AssetType": "IP Component",
+    "Description": "testing",
+    "Products": [],
+    "Scenarios": [],
+    "SolutionAreas": [],
+    "Tags": ["123test"],
+    "AssetVersion": "V1",
+    "AssetContributors": [],
+    "AssetOwner": ["v-skonar@microsoft.com"],
+    "RegisteredBy": "v-skonar@microsoft.com",
+    "RegisteredDate": "2023-06-12T07:00:45.3338839Z",
+    "IsPrivate": true,
+    "PrivateUsers": ["chrysalisdev@microsoft.com"],
+    "LinkedAssets": [],
+    "EffortsCouldSaveUpto": 0,
+    "AssetURLAccessSteps": "Test",
+    "Industries": [],
+    "isManualBootstrap": true,
+    "NotifyUsers": ["v-skonar"],
+    "AssetURLScope": null,
+    "DeliveryProductID": "",
+    "DomainServiceline": null
+  },
+  "IPDetails": {
+    "DisplayVersion": "V1",
+    "WorkItems": [],
+    "Repository": [],
+    "AssociatedComponents": [],
+    "Pipelines": [],
+    "docsAsCode": [],
+    "iterationAreaTeams": [],
+    "Queries": [],
+    "Dashboards": [],
+    "VariableGroups": [],
+    "PreProcessingSteps": "",
+    "PostProcessingSteps": "",
+    "processTemplateEnabler": [],
+    "automationEnabler": []
+  }
+}
