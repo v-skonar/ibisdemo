@@ -1,0 +1,257 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "sipcollectionbgfjdgjgjgf5",
+    "AssetType": "IP Collection",
+    "Description": "create a assset with out enabler later edit provide the process tempalte ",
+    "Products": [
+      "Active Directory",
+      "AKS",
+      "ARM Templates",
+      "Azure",
+      "Azure Active Directory",
+      "Azure Analysis Services",
+      "Azure App Service",
+      "Azure Arc",
+      "Azure Automation Runbook",
+      "Azure Cognitive Search",
+      "Azure Cognitive Services",
+      "Azure Compute",
+      "Azure Data Factory",
+      "Azure Data Lake",
+      "Azure Data Migration",
+      "Azure Database for PostgreSQL",
+      "Azure Databricks",
+      "Azure DevOps Services",
+      "Azure Diagonistic",
+      "Azure HDInsight",
+      "Azure Internet of Things",
+      "Azure Kubernetes Service",
+      "Azure Logic Apps",
+      "Azure Machine Learning",
+      "Azure Policy",
+      "Azure Security Center",
+      "Azure Sentinel",
+      "Azure SQL Database",
+      "Azure Synapse Analytics",
+      "Biceps",
+      "Defender ATP & Cloud App Security (MCAS)",
+      "Dynamics",
+      "Dynamics 365",
+      "Dynamics 365 Commerce",
+      "Dynamics 365 Customer Insights",
+      "Dynamics 365 Customer Service",
+      "Dynamics 365 Field Service",
+      "Dynamics 365 Finance",
+      "Dynamics 365 Fraud Protection",
+      "Dynamics 365 Marketing",
+      "Dynamics 365 Project Operations",
+      "Dynamics 365 Sales",
+      "Dynamics 365 Supply Chain Management",
+      "Dynamics CRM",
+      "Enterprise Mobility + Security",
+      "Event Hub",
+      "Exchange Online",
+      "Exchange Server",
+      "Github",
+      "HoloLens (1st gen)",
+      "IaC",
+      "Intune",
+      "Log Analytics",
+      "Microsoft 365",
+      "Microsoft Power Platform",
+      "Microsoft Teams",
+      "Office 365",
+      "Office 365 Enterprise",
+      "Power BI",
+      "PowerShell",
+      "SharePoint",
+      "SharePoint Online",
+      "SQL Server",
+      "Windows",
+      "Windows 10",
+      "Windows and Devices Group",
+      "Windows Server",
+      "Application Insights",
+      "Azure Data Explorer",
+      "Azure Firewall",
+      "Azure Kubernetes",
+      "Catena-X",
+      "Data Spaces",
+      "Eclipse Dataspace",
+      "GAIA-X",
+      "GitOps",
+      "Graph API",
+      "Jenkins",
+      "Kafka",
+      "LoRaWAN",
+      "SignalR",
+      "Socket.IO",
+      "Ansible",
+      "Azure Application Gateway",
+      "Azure CLI",
+      "Azure Communication Services",
+      "Azure Container Registry",
+      "Azure Cosmos DB",
+      "Azure Data Bricks",
+      "Azure Data Lake Storage",
+      "Azure DevOps",
+      "Azure Digital Twins",
+      "Azure Durable Functions",
+      "Azure EventGrid",
+      "Azure Front Door",
+      "Azure Functions",
+      "Azure IoT",
+      "Azure KeyVault",
+      "Azure ML",
+      "Azure Monitor",
+      "Azure PostgreSQL",
+      "Azure Serverless",
+      "Azure Service Bus",
+      "Azure Storage",
+      "Azure Stream Analytics",
+      "Cosmos DB",
+      "Entity Framework",
+      "FluentBit",
+      "IoT Edge",
+      "KepServerEx",
+      "ML Flow",
+      "MLOps",
+      "NoSQL",
+      "Python",
+      "Terraform",
+      "TorchMetrics",
+      "Web Validate",
+      "testProd"
+    ],
+    "Scenarios": [],
+    "SolutionAreas": [
+      "Infrastructure",
+      "Business Apps",
+      "Cross Solutions",
+      "Data and AI",
+      "Digital and Application Innovation",
+      "Modern Work",
+      "Security",
+      "Adoption Change and Services Management",
+      "ACAI (Azure cloud and Artificial intelligence)",
+      "SSL (Security service line)",
+      "MW (Modern work)",
+      "BA (Business Applications)"
+    ],
+    "Industries": [
+      "HealthCare",
+      "Education"
+    ],
+    "Tags": ["QATESTING"],
+    "AssetVersion": "sagi",
+    "AssetContributors": ["v-ydhakad@microsoft.com"],
+    "AssetOwner": ["v-saginaveen@microsoft.com"],
+    "RegisteredBy": "v-saginaveen@microsoft.com",
+    "RegisteredDate": "2023-05-02T10:36:21.9933094Z",
+    "IsPrivate": true,
+    "PrivateUsers": ["v-naggummadi@microsoft.com"],
+    "LinkedAssets": [
+      {
+        "packageID": null,
+        "innerSourceId": "P31XCDoR8V",
+        "buildNumber": null,
+        "displayVersion": "sagi",
+        "title": "sagi_15405ding",
+        "status": "InDevelopment",
+        "assetType": "IP Collection",
+        "isLatestVersion": false
+      }
+    ],
+    "AssetURLAccessSteps": "connect the owner ",
+    "AssetURLScope": null,
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": null
+  },
+  "IPDetails": {
+    "DisplayVersion": "sagi",
+    "WorkItems": [
+      {
+        "name": "Current Sprint User stories without acceptance criteria",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/08cc2961-3f21-4b04-a548-9463a35a967d/"
+      }
+    ],
+    "Repository": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_git/IBISPortal",
+        "isPerformLiveReplication": true,
+        "repoLiveReplicationType": "SpecificBranch",
+        "specificBranchName": "main"
+      }
+    ],
+    "AssociatedComponents": [
+      {
+        "innerSourceId": "duy1IE8O5t",
+        "buildNumber": "20230420.1",
+        "displayVersion": "sagi",
+        "status": "Active",
+        "assetType": "IP Component"
+      }
+    ],
+    "Pipelines": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=68&branch=azure-pipelines"
+      }
+    ],
+    "docsAsCode": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_git/IBISPortal",
+        "repoBranch": "QA_Test",
+        "path": "/ibisportal",
+        "wikiName": "nb"
+      }
+    ],
+    "iterationAreaTeams": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)  "
+      }
+    ],
+    "Queries": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/"
+      }
+    ],
+    "Dashboards": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_dashboards/dashboard/0b085c9c-afe2-4636-a389-35d0218c3dd9",
+        "teamName": null
+      }
+    ],
+    "VariableGroups": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=12&path=New%20variable%20group%2019-Dec"
+      }
+    ],
+    "PreProcessingSteps": "enter the number ",
+    "PostProcessingSteps": "get the result ",
+    "processTemplateEnabler": [],
+    "automationEnabler": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/",
+        "runFilePath": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/",
+        "parameterFile": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/"
+      }
+    ]
+  }
+}
