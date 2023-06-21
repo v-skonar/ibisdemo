@@ -264,6 +264,14 @@
         "runFilePath": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/",
         "parameterFile": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/"
       }
+    ],
+    "extensions": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/extensions",
+        "teamName": null
+      }
     ]
   }
 }
