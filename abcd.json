@@ -1,0 +1,133 @@
+{
+  "PrimaryDetails": {
+    "AssetTitle": "sipcollectionbgfjdgjgjgf5",
+    "AssetType": "IP Collection",
+    "Description": "create a assset with out enabler later edit provide the process tempalte ",
+    "Products": [
+      "Active Directory"
+    ],
+    "Scenarios": [],
+    "SolutionAreas": [
+      "Infrastructure"
+    ],
+    "Industries": [
+      "HealthCare",
+      "Education"
+    ],
+    "Tags": ["QATESTING"],
+    "AssetVersion": "sagi",
+    "AssetContributors": ["v-ydhakad@microsoft.com"],
+    "AssetOwner": ["v-saginaveen@microsoft.com"],
+    "RegisteredBy": "v-saginaveen@microsoft.com",
+    "RegisteredDate": "2023-05-02T10:36:21.9933094Z",
+    "IsPrivate": true,
+    "PrivateUsers": ["v-naggummadi@microsoft.com"],
+    "LinkedAssets": [
+      {
+        "packageID": null,
+        "innerSourceId": "P31XCDoR8V",
+        "buildNumber": null,
+        "displayVersion": "sagi",
+        "title": "sagi_15405ding",
+        "status": "InDevelopment",
+        "assetType": "IP Collection",
+        "isLatestVersion": false
+      }
+    ],
+    "AssetURLAccessSteps": "connect the owner ",
+    "AssetURLScope": null,
+    "DeliveryProductID": "P-MAD-M365",
+    "DomainServiceline": null,
+    "AssociatedProjects": [
+      "TestProjectTest_05",
+      "TestProjectTest_02"
+    ]
+  },
+  "IPDetails": {
+    "DisplayVersion": "sagi",
+    "WorkItems": [
+      {
+        "name": "Current Sprint User stories without acceptance criteria",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/08cc2961-3f21-4b04-a548-9463a35a967d/"
+      }
+    ],
+    "Repository": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_git/IBISPortal",
+        "isPerformLiveReplication": true,
+        "repoLiveReplicationType": "SpecificBranch",
+        "specificBranchName": "main"
+      }
+    ],
+    "AssociatedComponents": [
+      {
+        "innerSourceId": "duy1IE8O5t",
+        "buildNumber": "20230420.1",
+        "displayVersion": "sagi",
+        "status": "Active",
+        "assetType": "IP Component"
+      }
+    ],
+    "Pipelines": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_apps/hub/ms.vss-build-web.ci-designer-hub?pipelineId=68&branch=azure-pipelines"
+      }
+    ],
+    "docsAsCode": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_git/IBISPortal",
+        "repoBranch": "QA_Test",
+        "path": "/ibisportal",
+        "wikiName": "nb"
+      }
+    ],
+    "iterationAreaTeams": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)  "
+      }
+    ],
+    "Queries": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/"
+      }
+    ],
+    "Dashboards": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_dashboards/dashboard/0b085c9c-afe2-4636-a389-35d0218c3dd9",
+        "teamName": null
+      }
+    ],
+    "VariableGroups": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_library?itemType=VariableGroups&view=VariableGroupView&variableGroupId=12&path=New%20variable%20group%2019-Dec"
+      }
+    ],
+    "PreProcessingSteps": "enter the number ",
+    "PostProcessingSteps": "get the result ",
+    "processTemplateEnabler": [],
+    "automationEnabler": [
+      {
+        "name": "",
+        "sourceType": "ADO",
+        "url": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/",
+        "runFilePath": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/",
+        "parameterFile": "https://dev.azure.com/chrysalis-innersource/IBIS%20(Intelligent%20Bootstrap%20Integrated%20System)/_queries/query/aa8cde2e-6d27-4618-add0-7a29cc438dbe/"
+      }
+    ]
+  }
+}
